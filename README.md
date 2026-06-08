@@ -16,13 +16,6 @@ tratamento de dados corrompidos e análise exploratória de dados de vendas.
 
 ---
 
-## 📁 Estrutura do Projeto
-|📂 Tratamento-de-Dados-e-Analise|
- |├── Entrega_3_Ana_Beatriz.ipynb |  # Notebook principal|
- |├── Campe_Supply_Corrompido.xlsx|# Dataset original|
- |└── Campe_Supply_Tratado.xlsx  | # Dataset após tratamento|
----
-
 ## 🔍 Análise Exploratória dos Dados
 
 Iniciei o notebook importando as bibliotecas necessárias (`pandas` e `numpy`) e carregando 
